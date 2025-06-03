@@ -43,7 +43,7 @@ Improve the security posture of Azure resources using Microsoft Defender for Clo
   - Missing private endpoints
   - Purge protection and firewall disabled on Key Vault
 
--### ✅ 2. Overprovisioned Identities Role Review
+ ✅ 2. Overprovisioned Identities Role Review
 ![Overprovisioned Identities Role](./02-overprovisioned-identities-role.png)
 
 ---
@@ -75,7 +75,7 @@ Improve the security posture of Azure resources using Microsoft Defender for Clo
 
 - ![Defender Dashboard Opened](./01-defender-dashboard-opened.png)
 
--### ✅ 2. Overprovisioned Identities Role Review
+2. Overprovisioned Identities Role Review
 ![Overprovisioned Identities Role](./02-overprovisioned-identities-role.png)
 ---
 
