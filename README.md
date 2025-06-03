@@ -31,7 +31,8 @@ Improve the security posture of Azure resources using Microsoft Defender for Clo
 - Confirmed Defender was turned On for Key Vault and other services (Plan 2 shown).
 
 ### 1. Microsoft Defender Dashboard
-![Defender Dashboard](https://github.com/Akinwale1997/azure-defender-secure-recommendations/blob/main/01-defender-dashboard-opened.png?raw=true)
+### ✅ 1. Defender Dashboard Opened
+![Defender Dashboard Opened](./01-defender-dashboard-opened.png)
 
 ---
 
